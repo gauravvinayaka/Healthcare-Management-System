@@ -1,2 +1,2 @@
-# Healthcare-Management-System
-A secure software system built using ASP.NET and SQL that manages patient information.
+# Patient_Health_Care_System-
+Mangae online Patient Account. View Patient Records based on Name and Schedule appointments.  
